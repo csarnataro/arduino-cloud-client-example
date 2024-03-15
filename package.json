@@ -1,0 +1,15 @@
+{
+  "name": "arduino-cloud-client-example",
+  "version": "1.0.0",
+  "description": "A simple Arduino Cloud example client built in nodejs",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "arduino-iot-js": "^0.11.0"
+  }
+}
