@@ -1,10 +1,11 @@
-# Fake Cloud Thing
+# Arduino Cloud Client Example
 
 A simple script to send data to Arduino Cloud 
 using the `arduino-iot-js` library.
 
 Inspired from the original README file in https://github.com/arduino/arduino-iot-js,
-but tested with the latest version of the code.
+but tested with the latest version of the library.
+
 See notes below to use it in development environment (only for Arduino employees)
 This script covers only the `sendProperty` part, not the `onPropertyValue` callbacks.
 
